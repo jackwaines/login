@@ -1,0 +1,11 @@
+c:\users\t7062534\source\repos\log\log\bin\Debug\log.exe.config
+c:\users\t7062534\source\repos\log\log\bin\Debug\log.exe
+c:\users\t7062534\source\repos\log\log\bin\Debug\log.pdb
+c:\users\t7062534\source\repos\log\log\obj\Debug\log.csprojAssemblyReference.cache
+c:\users\t7062534\source\repos\log\log\obj\Debug\log.Form1.resources
+c:\users\t7062534\source\repos\log\log\obj\Debug\log.Main.resources
+c:\users\t7062534\source\repos\log\log\obj\Debug\log.Properties.Resources.resources
+c:\users\t7062534\source\repos\log\log\obj\Debug\log.csproj.GenerateResource.cache
+c:\users\t7062534\source\repos\log\log\obj\Debug\log.csproj.CoreCompileInputs.cache
+c:\users\t7062534\source\repos\log\log\obj\Debug\log.exe
+c:\users\t7062534\source\repos\log\log\obj\Debug\log.pdb
