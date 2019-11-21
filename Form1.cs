@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace log
 {
@@ -34,14 +35,29 @@ namespace log
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            Main mm = new Main();
-            mm.Show();
+            SqlConnection conn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\t7062534\Documents\testlogin.mdf;Integrated Security=True;Connect Timeout=30");
+            SqlDataAdapter sda = new SqlDataAdapter("select count(*) from login where username='" + textBox1.Text + "' and password='" + textBox2.Text + "'", conn);
+            DataTable dt = new DataTable();
+            sda.Fill(dt);
+            if (dt.Rows[0][0].ToString() == "1")
+            {
+                this.Hide();
+                Main mm = new Main();
+                mm.Show();
+            }
+            else
+                MessageBox.Show("Username and Password incorrect", "alert", MessageBoxButtons.OK,MessageBoxIcon.Error);
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }

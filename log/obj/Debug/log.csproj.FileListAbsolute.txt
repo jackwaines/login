@@ -9,3 +9,14 @@ c:\users\t7062534\source\repos\log\log\obj\Debug\log.csproj.GenerateResource.cac
 c:\users\t7062534\source\repos\log\log\obj\Debug\log.csproj.CoreCompileInputs.cache
 c:\users\t7062534\source\repos\log\log\obj\Debug\log.exe
 c:\users\t7062534\source\repos\log\log\obj\Debug\log.pdb
+C:\Users\t7062534\source\repos\login\log\bin\Debug\log.exe.config
+C:\Users\t7062534\source\repos\login\log\bin\Debug\log.exe
+C:\Users\t7062534\source\repos\login\log\bin\Debug\log.pdb
+C:\Users\t7062534\source\repos\login\log\obj\Debug\log.csprojAssemblyReference.cache
+C:\Users\t7062534\source\repos\login\log\obj\Debug\log.Form1.resources
+C:\Users\t7062534\source\repos\login\log\obj\Debug\log.Main.resources
+C:\Users\t7062534\source\repos\login\log\obj\Debug\log.Properties.Resources.resources
+C:\Users\t7062534\source\repos\login\log\obj\Debug\log.csproj.GenerateResource.cache
+C:\Users\t7062534\source\repos\login\log\obj\Debug\log.csproj.CoreCompileInputs.cache
+C:\Users\t7062534\source\repos\login\log\obj\Debug\log.exe
+C:\Users\t7062534\source\repos\login\log\obj\Debug\log.pdb
